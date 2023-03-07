@@ -1,0 +1,20 @@
+E:\Atestat\Masinite atestat\Masinite atestat\bin\Debug\Masinite atestat.exe.config
+E:\Atestat\Masinite atestat\Masinite atestat\bin\Debug\Masinite atestat.exe
+E:\Atestat\Masinite atestat\Masinite atestat\bin\Debug\Masinite atestat.pdb
+E:\Atestat\Masinite atestat\Masinite atestat\bin\Debug\Masinite atestat.xml
+E:\Atestat\Masinite atestat\Masinite atestat\obj\Debug\Masinite_atestat.Form1.resources
+E:\Atestat\Masinite atestat\Masinite atestat\obj\Debug\Masinite_atestat.Resources.resources
+E:\Atestat\Masinite atestat\Masinite atestat\obj\Debug\Masinite atestat.vbproj.GenerateResource.Cache
+E:\Atestat\Masinite atestat\Masinite atestat\obj\Debug\Masinite atestat.exe
+E:\Atestat\Masinite atestat\Masinite atestat\obj\Debug\Masinite atestat.xml
+E:\Atestat\Masinite atestat\Masinite atestat\obj\Debug\Masinite atestat.pdb
+E:\Atestat\Iacob Mihai\Masinite atestat\bin\Debug\Masinite atestat.exe.config
+E:\Atestat\Iacob Mihai\Masinite atestat\obj\Debug\Masinite atestat.exe
+E:\Atestat\Iacob Mihai\Masinite atestat\obj\Debug\Masinite atestat.xml
+E:\Atestat\Iacob Mihai\Masinite atestat\obj\Debug\Masinite atestat.pdb
+E:\Atestat\Iacob Mihai\Masinite atestat\bin\Debug\Masinite atestat.exe
+E:\Atestat\Iacob Mihai\Masinite atestat\bin\Debug\Masinite atestat.pdb
+E:\Atestat\Iacob Mihai\Masinite atestat\bin\Debug\Masinite atestat.xml
+E:\Atestat\Iacob Mihai\Masinite atestat\obj\Debug\Masinite_atestat.Form1.resources
+E:\Atestat\Iacob Mihai\Masinite atestat\obj\Debug\Masinite_atestat.Resources.resources
+E:\Atestat\Iacob Mihai\Masinite atestat\obj\Debug\Masinite atestat.vbproj.GenerateResource.Cache
